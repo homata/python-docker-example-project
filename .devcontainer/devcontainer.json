@@ -1,0 +1,11 @@
+{
+	"name": "exa-pj",
+	"context": "..",
+	"dockerFile": "./DockerFile",
+	"settings": {},
+	"extensions": [
+		"ms-python.python",
+		"ms-python.vscode-pylance"
+	],
+	"onCreateCommand": "bash ${containerWorkspaceFolder}/.devcontainer/create.sh",
+}
