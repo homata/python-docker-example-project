@@ -19,7 +19,8 @@ Macでのセットアップ方法を紹介します。
 
 ### 必要GUIアプリケーションのインストール
 
-brewを使用します
+homebrewを使用します。  
+インストールされていない場合はこちらのインストールスクリプトを使用します。
 
 ```
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
