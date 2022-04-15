@@ -10,7 +10,7 @@
             "request": "launch",
             "module": "uvicorn",
             "args": [
-                "example-pj.example_pj.Main:app",
+                "example-pj.example_pj.main:app",
                 "--host",
                 "0.0.0.0",
                 "--reload"

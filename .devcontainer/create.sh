@@ -9,8 +9,8 @@ fi
 # projectに移動
 cd example-pj/example_pj
 
-# Main.pyを作成
-mv ../../Main.py Main.py
+# main.pyを作成
+mv ../../main.py main.py
 
 # fastapiとuvicorn、blackをインストール
 poetry add fastapi uvicorn black
